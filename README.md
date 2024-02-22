@@ -135,3 +135,4 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 
 注意：参赛选手的实时排名可在[LeaderBoard](https://yuni-bobo.github.io/leaderboard.html)查看,LeaderBoard每日21:00更新队伍实时成绩排名。# NCAA-2024-Chinese-DQC
 # NCAA-2024-Chinese-DQC
+# NCAA-2024-Chinese-DQC
