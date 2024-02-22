@@ -133,4 +133,5 @@ $准确率(Accuracy) = \frac{预测正确的样本数}{预测总样本数}$
 
 参赛者请按照以上提交格式要求。最后将文件保存为“test.txt”格式，邮件名为“NCAA-2024-中文糖尿病问题分类-参赛队名称”，发送至邮箱：280137277@qq.com。
 
-注意：参赛选手的实时排名可在[LeaderBoard](https://yuni-bobo.github.io/leaderboard.html)查看,LeaderBoard每日21:00更新队伍实时成绩排名。
+注意：参赛选手的实时排名可在[LeaderBoard](https://yuni-bobo.github.io/leaderboard.html)查看,LeaderBoard每日21:00更新队伍实时成绩排名。# NCAA-2024-Chinese-DQC
+# NCAA-2024-Chinese-DQC
